@@ -1,1 +1,1 @@
-# mutli_detector
+# multi_detector
